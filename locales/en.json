@@ -1,0 +1,99 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "settings": "Settings",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "home": "Home",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login",
+    "close": "Close"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Services", 
+    "rewards": "Rewards",
+    "profile": "Profile"
+  },
+  "home": {
+    "greeting": "Welcome!",
+    "greetingUser": "Welcome, {{name}}!",
+    "today": "Today",
+    "weather": {
+      "now": "Now",
+      "day": "Day",
+      "night": "Night",
+      "city": "Zaporizhzhia",
+      "sunny": "Sunny",
+      "cloudy": "Cloudy",
+      "rainy": "Rainy",
+      "stormy": "Stormy",
+      "snowy": "Snowy"
+    },
+    "airAlarm": {
+      "title": "Air Raid Alert",
+      "region": "Zaporizhzhia city and territorial community",
+      "active": "Alert is active",
+      "inactive": "No alert",
+      "unknown": "Status unknown"
+    },
+    "quickServices": {
+      "title": "Quick Access",
+      "services": "Services",
+      "utilities": "Utilities",
+      "transport": "Transport",
+      "health": "Health",
+      "education": "Education"
+    },
+    "appUpdate": {
+      "title": "What's New?",
+      "subtitle": "System Update",
+      "description": "New features added and app performance improved"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "empty": "No new notifications",
+      "new": "New"
+    }
+  },
+  "language": {
+    "english": "English",
+    "russian": "Русский",
+    "ukrainian": "Українська",
+    "selectLanguage": "Select Language"
+  },
+  "days": {
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday", 
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday"
+  },
+  "months": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December"
+  }
+} 

@@ -1,0 +1,99 @@
+{
+  "common": {
+    "welcome": "Ласкаво просимо",
+    "loading": "Завантаження...",
+    "error": "Помилка",
+    "retry": "Повторити",
+    "cancel": "Скасувати",
+    "ok": "OK",
+    "save": "Зберегти",
+    "edit": "Редагувати",
+    "delete": "Видалити",
+    "search": "Пошук",
+    "settings": "Налаштування",
+    "back": "Назад",
+    "next": "Далі",
+    "previous": "Попередній",
+    "home": "Головна",
+    "profile": "Профіль",
+    "logout": "Вийти",
+    "login": "Увійти",
+    "close": "Закрити"
+  },
+  "navigation": {
+    "home": "Головна",
+    "services": "Сервіси",
+    "rewards": "Нагороди",
+    "profile": "Профіль"
+  },
+  "home": {
+    "greeting": "Вітаємо!",
+    "greetingUser": "Вітаємо, {{name}}!",
+    "today": "Сьогодні",
+    "weather": {
+      "now": "Зараз",
+      "day": "Удень",
+      "night": "Уночі",
+      "city": "Запоріжжя",
+      "sunny": "Сонячно",
+      "cloudy": "Хмарно",
+      "rainy": "Дощ",
+      "stormy": "Гроза",
+      "snowy": "Сніг"
+    },
+    "airAlarm": {
+      "title": "Повітряна тривога",
+      "region": "м. Запоріжжя та Запорізька територіальна громада",
+      "active": "Тривога активна",
+      "inactive": "Тривоги немає",
+      "unknown": "Статус невідомий"
+    },
+    "quickServices": {
+      "title": "Швидкий доступ",
+      "services": "Сервіси",
+      "utilities": "Комунальні послуги",
+      "transport": "Транспорт",
+      "health": "Здоров'я",
+      "education": "Освіта"
+    },
+    "appUpdate": {
+      "title": "Що нового?",
+      "subtitle": "Оновлення системи",
+      "description": "Додано нові функції та покращено продуктивність додатку"
+    },
+    "notifications": {
+      "title": "Повідомлення",
+      "empty": "Нових повідомлень немає",
+      "new": "Нове"
+    }
+  },
+  "language": {
+    "english": "English",
+    "russian": "Русский",
+    "ukrainian": "Українська",
+    "selectLanguage": "Оберіть мову"
+  },
+  "days": {
+    "monday": "Понеділок",
+    "tuesday": "Вівторок", 
+    "wednesday": "Середа",
+    "thursday": "Четвер",
+    "friday": "П'ятниця",
+    "saturday": "Субота",
+    "sunday": "Неділя"
+  },
+  "months": {
+    "january": "січня",
+    "february": "лютого",
+    "march": "березня",
+    "april": "квітня",
+    "may": "травня",
+    "june": "червня",
+    "july": "липня",
+    "august": "серпня",
+    "september": "вересня",
+    "october": "жовтня",
+    "november": "листопада",
+    "december": "грудня"
+  }
+} 
