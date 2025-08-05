@@ -6,6 +6,9 @@
     "apk": {
       "android": {
         "buildType": "apk"
+      },
+      "node": {
+        "cwd": "mobileapp"
       }
     }
   }
